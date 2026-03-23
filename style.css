@@ -1,0 +1,30 @@
+label{
+    font-family:Verdana;
+    font-weight:700px;
+    font-size: 90px;
+    display: block;
+    text-align: center;
+}
+#fom{
+display: block;
+text-align: center;
+}
+.btn{
+    font-family: Verdana;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: darkgray;
+    padding: 5px;
+    text-shadow: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:0.2s;
+
+
+}
+.btn:hover{
+    background-color: rgb(103, 188, 188);
+}
+.btn:active{
+    background-color: aquamarine;
+}
